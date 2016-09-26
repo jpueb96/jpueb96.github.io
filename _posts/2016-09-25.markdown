@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "First post!"
+date:   2016-09-25 22:01:43 +0530
+categories: jekyll update
+author: "Jailine"
+---
+This is my first post! Class has gone better, I get the hang of it once I practice it A LOT.  I am hoping to become quicker at catching on as the class progresses. 
+
+Let's see what I learn this week in class!
+
+
