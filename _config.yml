@@ -15,7 +15,7 @@ description: "<h3>Hello, world!</h3><h1>DevJournal</h1><h3>Awesome Jekyll Theme 
 
 
 baseurl:
-url: https://jpueb96.github.io/
+url: "/"
 github_username:  jpueb96
 
 # Build settings
