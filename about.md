@@ -14,7 +14,6 @@ permalink: /about/
 I am a Junior at UNC Chapel Hill, majoring in Global Studies with a concentration in the global health and environment.
 
 
-</p>
 </div>
 <p><br /></p>
 
@@ -24,4 +23,4 @@ I am a Junior at UNC Chapel Hill, majoring in Global Studies with a concentratio
 <p>  <div class="manual-content">
 
   
-</p>
+
