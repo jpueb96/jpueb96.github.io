@@ -14,8 +14,7 @@ permalink: /about/
 I am a Junior at UNC Chapel Hill, majoring in Global Studies with a concentration in the global health and environment.
 
 <h2>Old Well</h2>
-
-<img src="OLD-WELL-044.jpg" alt="Old Well" style="width:304px;height:228px;">
+![old-well](_images/old-well.jpg)
 
 </div>
 <p><br /></p>
