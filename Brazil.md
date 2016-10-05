@@ -13,10 +13,7 @@ permalink: /Brazil/
 
 This Spring I am going to study abroad in Brazil!  I am super excited to experience a different culture. 
 I have been learning Portuguese for the past year now, it is very similar to Spanish.  I am hoping to become fluent in Portuguese while abroad.
-
-<!DOCTYPE html>
-<html>
-<body>
+The program I am going to do is Public Health program, I think I am interested in public health...I'm about to find out for sure.
 
 <h1>Salvador, Bahia</h1>
 
