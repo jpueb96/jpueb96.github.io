@@ -24,11 +24,10 @@ I am a Junior at UNC Chapel Hill, majoring in Global Studies with a concentratio
 <p>
 
 
-I like to say that I am a tarheel born and breed becasue I was born at UNC Hospital, even if I have lived in Durham all of my life
-My family is composed of both og my parents and three sisters (no brothers). My parents are originally from Mexico, making me Mexican-American.  I speak English, hablo español, e falo português.
+I like to say that I am a tarheel born and bred becasue I was born at UNC Hospital, even if I have lived in Durham all of my life.
+My family is composed of both of my parents and three sisters (no brothers). My parents are originally from Mexico, making me Mexican-American.  I speak English, hablo español, e falo português.
 <p>
 
-</div>
 <p><br /></p>
 
   <div class="manual manual-title">
