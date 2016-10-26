@@ -17,19 +17,16 @@ I simply repeated the command, slightly altering it, depending on the type of fo
 All documents are able to be converted with one simple click by using scripting. 
 
 
-Here is the link where the documents that I converted can be found:
-[I'm an inline-style link](https://github.com/inls161/assignment-3-jpueb96)
+The document conversions can be found on [github](https://github.com/inls161/assignment-3-jpueb96)
 
 Links to the individual documents:
-* DOCX [I'm an inline-style link](https://github.com/inls161/assignment-3-jpueb96/blob/master/only-when-i-dance.docx)
-* HTML [I'm an inline-style link](https://github.com/inls161/assignment-3-jpueb96/blob/master/only-when-i-dance.html)
-* MD [I'm an inline-style link](https://github.com/inls161/assignment-3-jpueb96/blob/master/only-when-i-dance.md)
-* ODT [I'm an inline-style link](https://github.com/inls161/assignment-3-jpueb96/blob/master/only-when-i-dance.odt)
-* PDF [I'm an inline-style link](https://github.com/inls161/assignment-3-jpueb96/blob/master/only-when-i-dance.pdf)
+[DOCX](https://github.com/inls161/assignment-3-jpueb96/blob/master/only-when-i-dance.docx),
+[HTML](https://github.com/inls161/assignment-3-jpueb96/blob/master/only-when-i-dance.html),
+[MD](https://github.com/inls161/assignment-3-jpueb96/blob/master/only-when-i-dance.md),
+[ODT](https://github.com/inls161/assignment-3-jpueb96/blob/master/only-when-i-dance.odt),
+[PDF](https://github.com/inls161/assignment-3-jpueb96/blob/master/only-when-i-dance.pdf)
 
 
 Scripting the commands was somewhat easy since we went over it in class and I was able to look back at the notes. Creating the markdown effects like **bold** and *italics* and making list was fun, I like how the it changes colors.  
 I was stuggling with inserting the image and the table (because I was using HTML), but once I used markdown I had no problems.  
 I also tried to use `&&` when using `pandoc` to save time, but it did not work for some reason. 
-
-share to eah13
