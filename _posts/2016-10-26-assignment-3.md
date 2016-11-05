@@ -29,4 +29,4 @@ Links to the individual documents:
 
 Scripting the commands was somewhat easy since we went over it in class and I was able to look back at the notes. Creating the markdown effects like **bold** and *italics* and making list was fun, I like how the it changes colors.  
 I was stuggling with inserting the image and the table (because I was using HTML :sweat_smile:), but once I used markdown I had no problems.  
-I also tried to use `&&` when using `pandoc` to save time, but it did not work for some reason. 
+I also tried to use `&&` when using `pandoc` to save time, but it did not work for some reason so I just left it as it is now. 
