@@ -18,4 +18,6 @@ There was another elephant that was incomplete, the top was missing, but it serv
 
 UNC not only 3D printing workshops, and the necessary equipment to make item, but they also allow UNC students and affiliates to print 3D items for free!!! If you would like to print out a 3D item all you have to do is submit a request [here](https://docs.google.com/forms/d/e/1FAIpQLScfWHSCBVDBoW5cc4iUqbcAqyu-GCS1sGZzdG3J4QtRXMuu-g/viewform).  You will need to make your own design or find a blueprint online and you also have a consultation with the experts and they will recoment which material will best work for the item you would like printed and answer any other questions/concerns you may have.  
 
-***I am planning on linking my assignment 6 presentation to this post once it is complete since it is related and the presentation is informative and shows how 3D printing is used in the medical field***
+You can find out more information about about 3D printing at UNC by visiting their [website](http://library.unc.edu/makerspace/3d-printing/)
+
+[Here is our presentation](https://jpueb96.github.io/p2/#/)
